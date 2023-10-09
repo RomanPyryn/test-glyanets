@@ -197,7 +197,7 @@ body {
   color: #fff;
   background-image: -webkit-image-set(url(../images/hero/hero.png) 1x, url(../images/hero/hero@2x.png) 2x);
   background-image: image-set(url(../images/hero/hero.png) 1x, url(../images/hero/hero@2x.png) 2x);
-  background-repeat: no-repeat;
+  background-color: #1A202C;
 }
 
 .hero__title,
